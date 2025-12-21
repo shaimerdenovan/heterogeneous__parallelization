@@ -1,6 +1,6 @@
 # heterogeneous_parallelization
 
-Репозиторий с учебными работами по курсу **Heterogeneous Parallelization**.
+Репозиторий с учебными работами по курсу Heterogeneous Parallelization.
 
 ### Содержание
 - **lab1** - первая практическая работа
